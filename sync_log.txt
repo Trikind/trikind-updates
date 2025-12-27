@@ -10,3 +10,4 @@ Geometry Corrected: Orbital Reflection applied to Japan Hub assets at Sat Dec 27
 Phase Aligned: Doppler Centroid Estimation complete for Japan Hub at Sat Dec 27 08:49:36 AM UTC 2025
 Pre-Processing Complete: Radiometric Calibration finalized for Japan Hub at Sat Dec 27 08:50:43 AM UTC 2025
 Topography Phase Active: First 3D surface models (30m resolution) generating for Japan Hub at Sat Dec 27 09:03:15 AM UTC 2025
+Feature Classification Active: Land-cover filters applied to Japan Hub at Sat Dec 27 09:04:37 AM UTC 2025
