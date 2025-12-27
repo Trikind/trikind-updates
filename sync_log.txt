@@ -30,3 +30,4 @@ European Hub Active: Final regional Level-0 pre-processing initiated at Sat Dec 
 European Hub Aligned: Reflection and Doppler Estimation complete at Sat Dec 27 09:58:34 AM UTC 2025
 European Radiometry Complete: Signal power normalized at Sat Dec 27 10:00:33 AM UTC 2025
 European Topography Active: 3D Surface Reconstruction initiated at Sat Dec 27 10:01:29 AM UTC 2025
+European Classification Active: Final regional land-use filters applied at Sat Dec 27 10:02:22 AM UTC 2025
