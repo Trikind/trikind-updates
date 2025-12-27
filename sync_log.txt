@@ -19,3 +19,4 @@ Sydney Phase Aligned: Doppler Centroid Estimation complete for local assets at S
 Sydney Radiometry Complete: Signal power normalized for local assets at Sat Dec 27 09:38:42 AM UTC 2025
 Sydney Topography Active: 3D Surface Reconstruction initiated for local hub at Sat Dec 27 09:40:52 AM UTC 2025
 Sydney Classification Active: Urban and Coastal filters applied at Sat Dec 27 09:42:08 AM UTC 2025
+Sydney Export Complete: Final GeoTIFF products archived at Sat Dec 27 09:43:25 AM UTC 2025
