@@ -22,3 +22,4 @@ Sydney Classification Active: Urban and Coastal filters applied at Sat Dec 27 09
 Sydney Export Complete: Final GeoTIFF products archived at Sat Dec 27 09:43:25 AM UTC 2025
 North American Hub Active: Level-0 pre-processing for Kyle's coordination initiated at Sat Dec 27 09:46:34 AM UTC 2025
 NA Hub Aligned: Reflection and Doppler Estimation complete for North American sector at Sat Dec 27 09:47:51 AM UTC 2025
+NA Radiometry Complete: Signal power normalized for North American sector at Sat Dec 27 09:49:03 AM UTC 2025
