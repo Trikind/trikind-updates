@@ -26,3 +26,4 @@ NA Radiometry Complete: Signal power normalized for North American sector at Sat
 NA Topography Active: 3D Surface Reconstruction initiated for North American sector at Sat Dec 27 09:50:02 AM UTC 2025
 NA Classification Active: Land-use filters applied to North American sector at Sat Dec 27 09:51:09 AM UTC 2025
 NA Export Complete: Final GeoTIFF products archived for team review at Sat Dec 27 09:54:09 AM UTC 2025
+European Hub Active: Final regional Level-0 pre-processing initiated at Sat Dec 27 09:57:07 AM UTC 2025
