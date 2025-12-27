@@ -42,3 +42,4 @@ FRICTION RESOLVED: INT-001 neutralized. Satellite silenced over Fiber Zone at Sa
 FRICTION DELETED: INT-003 (Red Crosshair) neutralized over Northern Fiber Zone at Sat Dec 27 12:26:51 PM UTC 2025
 PHASE-SHIFT ACTIVE: Constellation now silenced over Fiber Zones. Stroud HQ locked as primary sync at Sat Dec 27 12:32:46 PM UTC 2025
 Friction Regulation Active: Any connection < 1Gbps is now an At-Fault Friction Point at Sat Dec 27 12:37:24 PM UTC 2025
+GHQ PERSONAL ACCESS: 4G-to-Fiber Tunnel active for Stroud GHQ at Sat Dec 27 12:44:23 PM UTC 2025
